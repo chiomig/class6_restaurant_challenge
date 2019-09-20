@@ -3,7 +3,7 @@
 ## Download & Setup
 
 - Clone the repo: `git clone https://github.com/chiomig/class6_restaurant_challenge.git`
-- Navigate into the app: `cd challenge_restaurant`
+- Navigate into the app: `cd class6_restaurant_challenge`
 - Install Gems: `bundle install --path=vendor`
 - Run migrations: `bundle exec rails db:migrate`
 
